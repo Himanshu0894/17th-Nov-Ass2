@@ -1,0 +1,38 @@
+body{
+    background-color: yellowgreen;
+}
+.container{
+    margin: auto;
+    height: 100px;
+    width:100px;
+    margin-top: 100px;
+}
+.tree{
+    height: 0px;
+    width: 0px;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: transparent;
+    border-width:50px;
+    border-bottom-color: grey;
+    margin-bottom: -125px;
+}
+.tree1{
+    height: 0px;
+    width: 0px;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: transparent;
+    border-width:50px;
+    border-bottom-color:brown;
+}
+.tree2{
+    height: 0px;
+    width: 0px;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: transparent;
+    border-width:50px;
+    border-bottom-color:rgb(214, 8, 8);
+    margin-top: -125px;
+}
